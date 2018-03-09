@@ -1,0 +1,2 @@
+# Prolico - Système de vente en ligne pour supporter l'agriculture
+Prolico est un concept initié dans le cadre d'un module de Master HES-SO. L'idée derrière ce concept est de créer une plateforme en ligne qui permet aux agriculteurs de vendre leurs produits sans passer par les supermarchés et grandes surfaces. Cela leurs offres la liberté de définir leurs propres prix et de vendre les produits de leur choix tout en leurs donnant une certaine visibilité sur les nouveaux médias.
